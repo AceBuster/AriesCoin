@@ -49,25 +49,3 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 Every pull request is built for both Windows and Linux on a dedicated server,
 and unit and sanity tests are automatically run. The binaries produced may be
 used for manual QA testing
-
- 
-Algorithm	SHA256
-Type	PoW
-Coin name	AriesCoin
-Coin abbreviation	ARIC
-Address letter	A
-RPC port	17754
-P2P port	17753
-Block reward	200 coins
-Block halving	210000 blocks
-Total coin supply	280000000 coins
-Premine percent	70%*
-Premine amount	196000000 coins
-	
-Coinbase maturity	6 blocks
-Target spacing	5 minutes
-Target timespan	10 minutes
-Transaction confirmations	3 blocks
-
-Seednode 	95.211.57.108
-*70% for sold on ICO
